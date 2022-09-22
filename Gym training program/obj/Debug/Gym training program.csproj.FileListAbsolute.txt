@@ -1,0 +1,8 @@
+C:\Users\sever\Desktop\Programing files\C#\After C Sharp start course pet project - Training program\Gym training program\bin\Debug\Gym training program.exe.config
+C:\Users\sever\Desktop\Programing files\C#\After C Sharp start course pet project - Training program\Gym training program\bin\Debug\Gym training program.exe
+C:\Users\sever\Desktop\Programing files\C#\After C Sharp start course pet project - Training program\Gym training program\bin\Debug\Gym training program.pdb
+C:\Users\sever\Desktop\Programing files\C#\After C Sharp start course pet project - Training program\Gym training program\obj\Debug\Gym training program.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\Programing files\C#\After C Sharp start course pet project - Training program\Gym training program\obj\Debug\Gym training program.csproj.SuggestedBindingRedirects.cache
+C:\Users\sever\Desktop\Programing files\C#\After C Sharp start course pet project - Training program\Gym training program\obj\Debug\Gym training program.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\Programing files\C#\After C Sharp start course pet project - Training program\Gym training program\obj\Debug\Gym training program.exe
+C:\Users\sever\Desktop\Programing files\C#\After C Sharp start course pet project - Training program\Gym training program\obj\Debug\Gym training program.pdb
